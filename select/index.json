@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Shower",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-11T13:42:44.180893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Standing In The Shower...Thinking",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/01_Standing_In_The_Shower...Thinking_Jane's_Addiction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Standing In The Shower...Thinking (Demo)",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/02_Standing_In_The_Shower...Thinking_(Demo)_Jane's_Addiction.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Singing in the Shower",
+      "artist": "Les Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/03_Singing_in_the_Shower_Les_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Singing in the shower",
+      "artist": "Les Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/04_Singing_in_the_shower_Les_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Singing In The Shower",
+      "artist": "Edie Brickell & New Bohemians",
+      "has_synced": false,
+      "path": "select/05_Singing_In_The_Shower_Edie_Brickell_&_New_Bohemians.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Singing In the Shower",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/06_Singing_In_the_Shower_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Shower Scene",
+      "artist": "Brand New",
+      "has_synced": true,
+      "path": "select/07_The_Shower_Scene_Brand_New.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Shower Scene",
+      "artist": "ICE NINE KILLS",
+      "has_synced": true,
+      "path": "select/08_The_Shower_Scene_ICE_NINE_KILLS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Shower Scene - 2000 Demo",
+      "artist": "Brand New",
+      "has_synced": false,
+      "path": "select/09_The_Shower_Scene_-_2000_Demo_Brand_New.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Shower Scene (2000 demo)",
+      "artist": "Brand New",
+      "has_synced": false,
+      "path": "select/10_The_Shower_Scene_(2000_demo)_Brand_New.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eating Food in the Shower",
+      "artist": "Ninja Sex Party",
+      "has_synced": true,
+      "path": "select/11_Eating_Food_in_the_Shower_Ninja_Sex_Party.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Shower",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/12_The_Shower_IU.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Shower",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/13_The_Shower_星野源.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Standing in the Shower...Thinking",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/14_Standing_in_the_Shower...Thinking_Jane's_Addiction.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Shower",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_The_Shower_星野源.txt"
+    }
+  ]
+}
